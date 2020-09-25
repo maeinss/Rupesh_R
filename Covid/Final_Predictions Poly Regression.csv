@@ -1,0 +1,188 @@
+"Country","Confirmed","Recovered","Deaths"
+"Afghanistan",2163,548,83
+"Albania",1077,625,37
+"Algeria",4213,2254,850
+"Andorra",987,548,51
+"Angola",228,0,2
+"Antigua and Barbuda",227,0,3
+"Argentina",5610,2133,386
+"Armenia",2129,1269,20
+"Australia",7546,8380,43
+"Austria",17022,17973,608
+"Azerbaijan",2052,1668,14
+"Bahamas",331,0,35
+"Bahrain",3631,2127,2
+"Bangladesh",7023,1365,263
+"Barbados",290,16,15
+"Belarus",12853,3978,54
+"Belgium",58473,15106,11047
+"Belize",221,0,2
+"Benin",257,10,1
+"Bhutan",212,0,0
+"Bolivia",1512,195,128
+"Bosnia and Herzegovina",1991,954,78
+"Botswana",225,0,1
+"Brazil",83597,40269,7454
+"Brunei",351,122,1
+"Bulgaria",1817,496,112
+"Burkina Faso",929,622,85
+"Burma",437,0,5
+"Burundi",214,0,1
+"Cabo Verde",338,0,1
+"Cambodia",332,108,0
+"Cameroon",2585,1576,100
+"Canada",57936,27007,4292
+"Central African Republic",229,0,0
+"Chad",236,0,0
+"Chile",15821,11115,144
+"China",92646,84277,6595
+"Colombia",6356,2396,404
+"Comoros",203,0,0
+"Congo (Brazzaville)",404,9,6
+"Congo (Kinshasa)",721,79,56
+"Costa Rica",977,425,2
+"Cote d'Ivoire",1570,763,13
+"Croatia",2527,1623,51
+"Cuba",1811,776,71
+"Cyprus",1097,298,9
+"Czechia",8339,4795,206
+"Denmark",10203,9192,624
+"Diamond Princess",974,954,11
+"Djibouti",1344,694,0
+"Dominica",219,0,0
+"Dominican Republic",7620,2103,463
+"Ecuador",14410,4518,994
+"Egypt",5846,2215,615
+"El Salvador",543,90,16
+"Equatorial Guinea",287,0,1
+"Eritrea",242,0,0
+"Estonia",2118,628,53
+"Eswatini",234,0,1
+"Ethiopia",322,8,3
+"Fiji",221,0,0
+"Finland",5821,3654,361
+"France",188128,56804,24683
+"Gabon",388,19,2
+"Gambia",213,0,1
+"Georgia",710,201,5
+"Germany",182890,112337,9277
+"Ghana",1465,440,1
+"Greece",3220,1277,215
+"Grenada",218,0,0
+"Guatemala",1000,104,37
+"Guinea",1673,439,5
+"Guinea-Bissau",253,0,0
+"Guyana",291,0,7
+"Haiti",336,0,13
+"Holy See",212,0,0
+"Honduras",833,64,92
+"Hungary",3476,1037,552
+"Iceland",2176,2489,0
+"India",34703,13163,1377
+"Indonesia",10923,2838,1285
+"Iran",103001,76728,8485
+"Iraq",2287,1847,127
+"Ireland",24714,15394,1442
+"Israel",17975,11750,137
+"Italy",219924,72046,26324
+"Jamaica",605,38,6
+"Japan",18476,5718,702
+"Jordan",687,464,6
+"Kazakhstan",3517,1457,13
+"Kenya",640,137,14
+"Korea, South",11976,13453,214
+"Kosovo",1139,350,27
+"Kuwait",3617,1447,5
+"Kyrgyzstan",989,579,8
+"Laos",222,0,0
+"Latvia",1142,342,7
+"Lebanon",982,325,22
+"Liberia",304,1,8
+"Libya",271,0,10
+"Liechtenstein",284,42,1
+"Lithuania",1884,889,48
+"Luxembourg",4261,1947,75
+"Madagascar",331,55,0
+"Malawi",285,0,3
+"Malaysia",6707,6133,77
+"Maldives",437,6,0
+"Mali",645,123,63
+"Malta",694,392,1
+"Mauritania",210,0,1
+"Mauritius",573,359,9
+"Mexico",19950,5812,2620
+"Moldova",4204,1771,120
+"Monaco",307,28,12
+"Mongolia",247,0,0
+"Montenegro",550,185,5
+"Morocco",4799,1523,269
+"Mozambique",271,0,0
+"MS Zaandam",212,0,2
+"Namibia",219,0,0
+"Nepal",269,0,0
+"Netherlands",47862,4853,7528
+"New Zealand",1819,1862,11
+"Nicaragua",222,0,11
+"Niger",989,530,41
+"Nigeria",1872,485,79
+"North Macedonia",1849,691,92
+"Norway",8621,2068,190
+"Oman",2614,1000,3
+"Pakistan",18220,7020,517
+"Panama",7712,1852,235
+"Papua New Guinea",211,0,0
+"Paraguay",431,68,9
+"Peru",32081,15257,1140
+"Philippines",9489,2538,905
+"Poland",13699,5217,814
+"Portugal",26745,7281,1182
+"Qatar",11958,3632,0
+"Romania",13522,5628,1016
+"Russia",92940,23191,797
+"Rwanda",372,90,0
+"Saint Kitts and Nevis",218,0,0
+"Saint Lucia",218,0,0
+"Saint Vincent and the Grenadines",216,0,0
+"San Marino",830,109,76
+"Sao Tome and Principe",207,0,0
+"Saudi Arabia",21481,6898,115
+"Senegal",917,405,6
+"Serbia",8851,3510,121
+"Seychelles",214,0,0
+"Sierra Leone",291,0,9
+"Singapore",17836,4924,0
+"Slovakia",2081,725,13
+"Slovenia",1771,515,116
+"Somalia",823,70,78
+"South Africa",6244,3619,143
+"South Sudan",210,0,0
+"Spain",257796,99447,25661
+"Sri Lanka",801,175,7
+"Sudan",596,13,57
+"Suriname",213,0,1
+"Sweden",24347,3169,4147
+"Switzerland",33060,30142,2488
+"Syria",245,0,3
+"Taiwan*",669,405,5
+"Tajikistan",203,0,0
+"Tanzania",510,13,10
+"Thailand",3374,3933,41
+"Timor-Leste",226,0,0
+"Togo",291,45,6
+"Trinidad and Tobago",321,41,8
+"Tunisia",1252,396,42
+"Turkey",127481,44376,3906
+"Uganda",339,34,0
+"Ukraine",11169,2856,353
+"United Arab Emirates",12499,4984,24
+"United Kingdom",182693,10264,25344
+"Uruguay",882,578,12
+"US",1080629,101925,65052
+"Uzbekistan",2343,1398,0
+"Venezuela",657,171,10
+"Vietnam",494,302,0
+"West Bank and Gaza",756,229,2
+"Western Sahara",209,0,0
+"Yemen",204,0,0
+"Zambia",295,23,3
+"Zimbabwe",231,0,4
